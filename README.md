@@ -29,8 +29,8 @@ This repository facilitates the reduction of wiring complexity and supports the 
 ### Steps
 ```bash
 # Clone the repository
-git clone https://github.com/sca7r/Zonal convergence gui.git
-cd Zonal convergence gui
+git clone https://github.com/sca7r/Zonal-Convergence-GUI.git
+cd Zonal convergence GUI
 
 # (Optional) Create a virtual environment
 python -m venv venv
@@ -46,7 +46,7 @@ pip install -r requirements.txt
 
 ## Directory Structure
 ```text
-ZonalConvergence/
+Zonal_Convergence_GUI/
 ├── k-means/
 │   ├── data
 │   ├── notebooks
